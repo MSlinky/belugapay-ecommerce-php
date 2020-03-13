@@ -2,6 +2,7 @@
     "name": "mslinky/belugapay-ecommerce-php",
     "description": "Belugapay library to connect to the ecommerce api, payment gateway for credit and debit cards for visa or mastercard.",
     "version": "1.0.0",
+    "license": "MIT",
     "require": {
         "php": "^7.2"
     },
