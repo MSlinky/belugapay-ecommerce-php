@@ -1,6 +1,7 @@
 {
     "name": "belugapay/belugapay-ecommerce-php",
     "description": "Belugapay library to connect to the ecommerce api, payment gateway for credit and debit cards for visa or mastercard.",
+    "version": "dev-master",
     "require": {
         "php": "^7.2"
     },
